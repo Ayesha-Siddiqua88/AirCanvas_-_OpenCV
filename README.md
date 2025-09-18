@@ -1,6 +1,6 @@
 # OpenCV and Air Canvas
 
-This repo consists of a simple demostration of opencv and Air Canvas project that is built with OpenCV and mediapipe.<br>
+This repo consists of a simple demostration of Air Canvas project that is built with OpenCV and mediapipe.<br>
 
 ### 🐍 Demo of OpenCV
 ▪ Reads and displays an RGB and grayscale flower image.<br>
